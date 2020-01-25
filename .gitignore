@@ -2,6 +2,10 @@
 #IDE
 .idea/
 **/*.iml
+.settings/
+.checkstyle
+.classpath
+.project
 
 # jenkins stuff
 work/
